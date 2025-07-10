@@ -2,8 +2,9 @@
 
 A full-stack task management application built with React (Vite), Node.js, Express, and MySQL. Features user authentication, CRUD operations for tasks, and a modern UI with Tailwind CSS.
 
-![Login Screen](path_to_login_screenshot.png)
-*Login interface of the Task Manager*
+<img width="1844" height="897" alt="Screenshot 2025-07-10 185748" src="https://github.com/user-attachments/assets/8450951d-0f3e-447b-a598-d18a2b931539" />
+<img width="1862" height="881" alt="Screenshot 2025-07-10 185803" src="https://github.com/user-attachments/assets/5d54f1d4-c445-4325-bbd2-aa86e0911b0d" />
+*Login & Register interfaces of the Task Manager*
 
 ## ✨ Features
 
@@ -24,7 +25,7 @@ A full-stack task management application built with React (Vite), Node.js, Expre
   - Smooth transitions and animations
   - Tailwind CSS styling
 
-![Tasks Dashboard](path_to_dashboard_screenshot.png)
+<img width="1083" height="874" alt="Screenshot 2025-07-10 185832" src="https://github.com/user-attachments/assets/4aa91ec1-0b0f-4f5a-be9c-b9c0b45533b9" />
 *Main dashboard showing task management interface*
 
 ## 🛠️ Technology Stack
@@ -99,8 +100,6 @@ The application should now be running at:
 - Frontend: `http://localhost:5173`
 - Backend: `http://localhost:5000`
 
-![Task Creation](path_to_task_creation_screenshot.png)
-*Task creation interface*
 
 ## 🌟 Usage
 
@@ -143,7 +142,7 @@ The application is fully responsive and works on:
 - Tablets
 - Mobile devices
 
-![Mobile View](path_to_mobile_screenshot.png)
+<img width="567" height="807" alt="image" src="https://github.com/user-attachments/assets/1ecd8354-9114-4814-8360-52c6c4b9f805" />
 *Mobile responsive interface*
 
 ## ⚙️ Configuration
